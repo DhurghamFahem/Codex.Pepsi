@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\abstractions\Codex.Pepsi.Abstractions.csproj" />
+  </ItemGroup>
+
 </Project>
