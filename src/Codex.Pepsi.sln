@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codex.Pepsi.Abstractions", "abstractions\Codex.Pepsi.Abstractions.csproj", "{08C1EE35-8EB9-48B4-A388-87F6D65F4C0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codex.Pepsi.Implementation", "impl\Codex.Pepsi.Implementation.csproj", "{8FDE2B99-7725-4E4E-B5DA-07EE8C82D669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08C1EE35-8EB9-48B4-A388-87F6D65F4C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C1EE35-8EB9-48B4-A388-87F6D65F4C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C1EE35-8EB9-48B4-A388-87F6D65F4C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C1EE35-8EB9-48B4-A388-87F6D65F4C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FDE2B99-7725-4E4E-B5DA-07EE8C82D669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FDE2B99-7725-4E4E-B5DA-07EE8C82D669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FDE2B99-7725-4E4E-B5DA-07EE8C82D669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FDE2B99-7725-4E4E-B5DA-07EE8C82D669}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
